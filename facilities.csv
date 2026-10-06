@@ -1,0 +1,68 @@
+facility_id,facility_name,facility_type,sub_county,county,beds,reporting
+F001,Westlands County Hospital,County Hospital,Westlands,Nairobi,22,Yes
+F002,Westlands Sub-County Hospital,Sub-County Hospital,Westlands,Nairobi,124,Yes
+F003,Westlands County Hospital,County Hospital,Westlands,Nairobi,289,Yes
+F004,Westlands Dispensary,Dispensary,Westlands,Nairobi,1,Yes
+F005,Embakasi Sub-County Hospital,Sub-County Hospital,Embakasi,Nairobi,129,Yes
+F006,Embakasi Sub-County Hospital,Sub-County Hospital,Embakasi,Nairobi,289,No
+F007,Langata Dispensary,Dispensary,Langata,Nairobi,18,Yes
+F008,Langata County Hospital,County Hospital,Langata,Nairobi,91,No
+F009,Kasarani Health Centre,Health Centre,Kasarani,Nairobi,4,Yes
+F010,Kasarani Health Centre,Health Centre,Kasarani,Nairobi,3,Yes
+F011,Kasarani Dispensary,Dispensary,Kasarani,Nairobi,3,Yes
+F012,Dagoretti Health Centre,Health Centre,Dagoretti,Nairobi,1,No
+F013,Dagoretti County Hospital,County Hospital,Dagoretti,Nairobi,203,Yes
+F014,Dagoretti Health Centre,Health Centre,Dagoretti,Nairobi,20,Yes
+F015,Nyali Sub-County Hospital,Sub-County Hospital,Nyali,Mombasa,45,Yes
+F016,Nyali Sub-County Hospital,Sub-County Hospital,Nyali,Mombasa,158,Yes
+F017,Nyali Sub-County Hospital,Sub-County Hospital,Nyali,Mombasa,61,No
+F018,Nyali Health Centre,Health Centre,Nyali,Mombasa,14,Yes
+F019,Likoni Health Centre,Health Centre,Likoni,Mombasa,11,Yes
+F020,Likoni Health Centre,Health Centre,Likoni,Mombasa,20,Yes
+F021,Changamwe Sub-County Hospital,Sub-County Hospital,Changamwe,Mombasa,283,Yes
+F022,Changamwe Sub-County Hospital,Sub-County Hospital,Changamwe,Mombasa,246,No
+F023,Changamwe Health Centre,Health Centre,Changamwe,Mombasa,20,Yes
+F024,Changamwe Health Centre,Health Centre,Changamwe,Mombasa,1,Yes
+F025,Mvita Health Centre,Health Centre,Mvita,Mombasa,12,Yes
+F026,Mvita County Hospital,County Hospital,Mvita,Mombasa,118,Yes
+F027,Kisauni Dispensary,Dispensary,Kisauni,Mombasa,12,No
+F028,Kisauni Sub-County Hospital,Sub-County Hospital,Kisauni,Mombasa,145,Yes
+F029,Kisumu Central Health Centre,Health Centre,Kisumu Central,Kisumu,18,No
+F030,Kisumu Central Dispensary,Dispensary,Kisumu Central,Kisumu,11,Yes
+F031,Kisumu East Dispensary,Dispensary,Kisumu East,Kisumu,2,Yes
+F032,Kisumu East County Hospital,County Hospital,Kisumu East,Kisumu,88,Yes
+F033,Kisumu West Dispensary,Dispensary,Kisumu West,Kisumu,19,Yes
+F034,Kisumu West Dispensary,Dispensary,Kisumu West,Kisumu,12,No
+F035,Kisumu West Health Centre,Health Centre,Kisumu West,Kisumu,17,Yes
+F036,Kisumu West County Hospital,County Hospital,Kisumu West,Kisumu,284,Yes
+F037,Muhoroni Health Centre,Health Centre,Muhoroni,Kisumu,3,Yes
+F038,Muhoroni Dispensary,Dispensary,Muhoroni,Kisumu,5,No
+F039,Muhoroni County Hospital,County Hospital,Muhoroni,Kisumu,144,Yes
+F040,Muhoroni County Hospital,County Hospital,Muhoroni,Kisumu,162,Yes
+F041,Nyando Health Centre,Health Centre,Nyando,Kisumu,5,Yes
+F042,Nyando Health Centre,Health Centre,Nyando,Kisumu,15,Yes
+F043,Nakuru Town Health Centre,Health Centre,Nakuru Town,Nakuru,9,Yes
+F044,Nakuru Town County Hospital,County Hospital,Nakuru Town,Nakuru,133,Yes
+F045,Naivasha Dispensary,Dispensary,Naivasha,Nakuru,2,Yes
+F046,Naivasha Sub-County Hospital,Sub-County Hospital,Naivasha,Nakuru,253,Yes
+F047,Gilgil Dispensary,Dispensary,Gilgil,Nakuru,6,Yes
+F048,Gilgil Health Centre,Health Centre,Gilgil,Nakuru,12,Yes
+F049,Gilgil Dispensary,Dispensary,Gilgil,Nakuru,16,No
+F050,Molo Sub-County Hospital,Sub-County Hospital,Molo,Nakuru,125,Yes
+F051,Molo Health Centre,Health Centre,Molo,Nakuru,0,Yes
+F052,Rongai Sub-County Hospital,Sub-County Hospital,Rongai,Nakuru,13,Yes
+F053,Rongai County Hospital,County Hospital,Rongai,Nakuru,127,Yes
+F054,Rongai County Hospital,County Hospital,Rongai,Nakuru,179,Yes
+F055,Rongai Sub-County Hospital,Sub-County Hospital,Rongai,Nakuru,152,No
+F056,Turbo Sub-County Hospital,Sub-County Hospital,Turbo,Eldoret,252,Yes
+F057,Turbo Dispensary,Dispensary,Turbo,Eldoret,13,Yes
+F058,Moiben County Hospital,County Hospital,Moiben,Eldoret,230,Yes
+F059,Moiben Dispensary,Dispensary,Moiben,Eldoret,13,No
+F060,Ainabkoi County Hospital,County Hospital,Ainabkoi,Eldoret,60,Yes
+F061,Ainabkoi Dispensary,Dispensary,Ainabkoi,Eldoret,10,Yes
+F062,Ainabkoi Sub-County Hospital,Sub-County Hospital,Ainabkoi,Eldoret,108,Yes
+F063,Ainabkoi Dispensary,Dispensary,Ainabkoi,Eldoret,4,No
+F064,Kapseret Health Centre,Health Centre,Kapseret,Eldoret,14,Yes
+F065,Kapseret County Hospital,County Hospital,Kapseret,Eldoret,236,Yes
+F066,Kesses County Hospital,County Hospital,Kesses,Eldoret,57,Yes
+F067,Kesses Sub-County Hospital,Sub-County Hospital,Kesses,Eldoret,218,No
